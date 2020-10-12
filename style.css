@@ -19,3 +19,10 @@ h1 {
   background-size: cover;
   background-position: center center;
 }
+
+ul li {
+  font-style: bold;
+  font-size: x-large;
+  color: blueviolet;
+  list-style-type: none;
+}
