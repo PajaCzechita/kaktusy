@@ -12,6 +12,7 @@ html {
 h1 {
   font-weight: 800;
   font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
 }
 
 p{
@@ -19,6 +20,7 @@ p{
 }
 h2{
   font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
 }
 
 .banner {
@@ -31,6 +33,13 @@ h2{
   background-position: center center;
 }
 
+.center{
+  margin: auto;
+  text-align: center;
+}
+ul{
+  padding: 0;
+}
 ul li {
   font-style: bold;
   font-size: x-large;
